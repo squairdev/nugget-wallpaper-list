@@ -1,0 +1,1 @@
+## An alternate to cowabun.ga/wallpapers, for when it's down

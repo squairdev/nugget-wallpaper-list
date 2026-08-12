@@ -1,0 +1,16 @@
+@import "tailwindcss";
+
+:root {
+  color-scheme: light;
+  background: #152f44;
+  color: #ffffff;
+}
+
+body, html, section {
+  color: var(--foreground);
+  font-family: "neutronic", sans-serif;
+  font-weight: 500;
+  font-style: normal;
+  letter-spacing: 0.0rem;
+  scroll-behavior: smooth;
+}
